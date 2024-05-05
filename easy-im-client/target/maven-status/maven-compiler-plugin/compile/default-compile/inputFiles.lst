@@ -1,0 +1,11 @@
+/home/spark4862/Documents/study/java/im_test/easy-im-client/src/main/java/com/spark4862/easyimclient/controller/TestController.java
+/home/spark4862/Documents/study/java/im_test/easy-im-client/src/main/java/com/spark4862/easyimclient/EasyImClientApplication.java
+/home/spark4862/Documents/study/java/im_test/easy-im-client/src/main/java/com/spark4862/easyimclient/messagehandler/chat/ChatRedirectToUserRequestHandler.java
+/home/spark4862/Documents/study/java/im_test/easy-im-client/src/main/java/com/spark4862/easyimclient/messagehandler/heartbeat/HeartbeatResponseHandler.java
+/home/spark4862/Documents/study/java/im_test/easy-im-client/src/main/java/com/spark4862/easyimclient/client/handler/NettyClientHandler.java
+/home/spark4862/Documents/study/java/im_test/easy-im-client/src/main/java/com/spark4862/easyimclient/controller/ClientShell.java
+/home/spark4862/Documents/study/java/im_test/easy-im-client/src/main/java/com/spark4862/easyimclient/messagehandler/chat/ChatSendResponseHandler.java
+/home/spark4862/Documents/study/java/im_test/easy-im-client/src/main/java/com/spark4862/easyimclient/client/NettyClient.java
+/home/spark4862/Documents/study/java/im_test/easy-im-client/src/main/java/com/spark4862/easyimclient/messagehandler/auth/AuthResponseHandler.java
+/home/spark4862/Documents/study/java/im_test/easy-im-client/src/main/java/com/spark4862/easyimclient/client/handler/NettyClientHandlerInitializer.java
+/home/spark4862/Documents/study/java/im_test/easy-im-client/src/main/java/com/spark4862/easyimclient/config/NettyClientConfig.java
